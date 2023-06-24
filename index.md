@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 
-My name is Pedro and I'm had some fun doing this.
+My name is Pedro and I had some fun doing this.
 
 # This should be a big title
 
