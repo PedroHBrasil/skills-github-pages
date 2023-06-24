@@ -9,7 +9,8 @@ My name is Pedro and I had some fun doing this.
 Should I say Hello World? Yes (guess the language).
 
 ```rust
-if (sayHelloWorld) {
+let sayHelloWorld = true;
+if sayHelloWorld {
   println!("Hello World");
 }
 ```
